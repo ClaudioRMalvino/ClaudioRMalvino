@@ -27,8 +27,8 @@
 
   - **Languages:** C++ (C++17/20), Python, Fortran, Bash
   - **Parallel / HPC:** OpenMP, MPI, CUDA, performance profiling & optimization
-  - **Scientific:** NumPy, SciPy, pandas, Qiskit, Eigen, pybind11
-  - **Tools:** CMake, Git, GDB, Valgrind, Linux, Slurm
+  - **Scientific:** NumPy, SciPy, pandas, Qiskit, Eigen, Boost, pybind11
+  - **Tools:** CMake, Git, GDB, Valgrind, Linux, Slurm, MAQAO
 
   ## Background
 
@@ -38,13 +38,3 @@
 
   - LinkedIn: [claudiomalvino](https://www.linkedin.com/in/claudiomalvino)
   - Email: claudiormal@gmail.com
-
-  A few notes:
-
-  - CP2K wording is deliberately honest — "performance optimization … (MPhil research)" and "MACE integration in progress," not "contributor" or "merged," since your work is on your branch and the
-  upstream PR is your colleague's. If your MACE work does land its own PR, change that line to link the PR directly — that's the moment it becomes a visible open-source contribution, which is the
-  high-value version.
-  - Email — it's already public on your resume, so I included it, but if you'd rather not have it scraped on GitHub, delete that line and keep LinkedIn as the contact path.
-  - The "open to … roles" line is there because you're actively job-hunting and it helps recruiters browsing your profile; remove it once you've landed something.
-  - I used bold only for the four tech-section labels (where it aids scanning a list); project names rely on link styling, not bold, per your preference. Say the word if you want it fully bold-free.
-  - Optional add-ons I left out on purpose: a GitHub-stats card and a badge wall — both lean "tacky" for your taste and your stats are modest. Easy to add later if you want them.
