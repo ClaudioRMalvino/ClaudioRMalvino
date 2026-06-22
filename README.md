@@ -21,7 +21,7 @@
 
   ## Currently
 
-  Finishing my MPhil research at Cambridge — optimizing neural-network-potential force evaluation in CP2K and integrating the MACE model, profiling on HPC hardware to make it scale.
+  Finishing my MPhil research at Cambridge which involves optimizing neural-network-potential force evaluation in CP2K and integrating the MACE model, profiling on HPC hardware to make it scale.
 
   ## Tech
 
