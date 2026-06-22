@@ -1,7 +1,7 @@
   # Claudio Malvino
 
-  I build and optimize high-performance scientific software in C++ and Python. My focus is the low-level work that makes numerical code run faster — profiling, parallelizing, and the careful
-  engineering around it — currently as part of an MPhil in Scientific Computing at the University of Cambridge.
+  I build and optimize high-performance scientific software in C++ and Python. My focus is the low-level work that makes numerical code run faster,profiling, parallelizing, and the careful
+  engineering around it; currently as part of an MPhil in Scientific Computing at the University of Cambridge.
 
   Completing my MPhil in 2026 and open to software engineering, quantitative developer, and scientific computing roles.
 
