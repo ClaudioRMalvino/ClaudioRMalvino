@@ -1,9 +1,9 @@
   # Claudio Malvino
 
-  I build and optimize high-performance scientific software in C++ and Python. My focus is the low-level work that makes numerical code run faster,profiling, parallelizing, and the careful
-  engineering around it; currently as part of an MPhil in Scientific Computing at the University of Cambridge.
+  I build and optimize high-performance scientific software in C++ and Python. My focus is the low-level work that makes numerical code run faster such as profiling, parallelizing, and the careful
+  engineering around it. I am currently enrolled into the MPhil in Scientific Computing course at the University of Cambridge.
 
-  Completing my MPhil in 2026 and open to software engineering, quantitative developer, and scientific computing roles.
+  Graduating in 2026 and open to software engineering, quantitative developer, and scientific computing roles.
 
   ## Featured projects
 
@@ -16,12 +16,8 @@
   [Physics-TUI](https://github.com/ClaudioRMalvino/Physics-TUI) — Terminal physics reference and equation solver in Python (Textual), covering 12 chapters and 190+ equations. Strictly typed (mypy), 82
   unit tests, packaged for pip and uv.
 
-  [CP2K](https://github.com/ClaudioRMalvino/cp2k) — Performance optimization of machine-learned interatomic potentials in the open-source CP2K package (MPhil research): a 5.6× single-core and 2.6×
-  full-node speedup, with MACE integration in progress.
-
-  ## Currently
-
-  Finishing my MPhil research at Cambridge which involves optimizing neural-network-potential force evaluation in CP2K and integrating the MACE model, profiling on HPC hardware to make it scale.
+  [CP2K](https://github.com/ClaudioRMalvino/cp2k) — Performance optimization of machine-learned interatomic potentials in the open-source CP2K package: a 5.6× single-core and 2.6× full-node speedup,
+  profiled on HPC hardware, with MACE integration in progress.
 
   ## Tech
 
