@@ -21,7 +21,7 @@
 
   ## Tech
 
-  - **Languages:** C++ (C++17/20), Python, Fortran, Bash
+  - **Languages:** C++ (C++17/20/23), Python, Fortran, Bash
   - **Parallel / HPC:** OpenMP, MPI, CUDA, performance profiling & optimization
   - **Scientific:** NumPy, SciPy, pandas, Qiskit, Eigen, Boost, pybind11
   - **Tools:** CMake, Git, GDB, Valgrind, Linux, Slurm, MAQAO
