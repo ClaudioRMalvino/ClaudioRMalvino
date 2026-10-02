@@ -31,6 +31,6 @@
   B.S. Applied Computational Physics (magna cum laude) · two peer-reviewed physics publications · NSF REU Fellow.
 
   ## Connect
-
+  - Portfolio: [claudiormalvino.github.io](https://claudiormalvino.github.io)
   - LinkedIn: [claudiomalvino](https://www.linkedin.com/in/claudiomalvino)
   - Email: claudiormal@gmail.com
